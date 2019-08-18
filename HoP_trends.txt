@@ -1,0 +1,5 @@
+Heroes of Pymoli:
+Three observable trends based on data analysis:
+-Although males make up the majority of users, female and other/non-disclosed genders spend more money per person on averagge.
+-The average age group of users is 20-24 years old.
+-The majority of buyers make 3 purchases each.
